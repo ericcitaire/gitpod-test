@@ -1,5 +1,4 @@
-image:
-  image: ericcitaire/my-theia
+image: ericcitaire/my-theia
 
 tasks:
   - command: zsh -l
